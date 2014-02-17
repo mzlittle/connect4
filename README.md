@@ -1,4 +1,4 @@
-connect4
-========
+* ORG MODE *
+* Goal
+** Implement the game Connect Four in Common Lisp
 
-Lisp implementation of the game Connect Four
